@@ -8,5 +8,6 @@ public class Spring5JokeAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Spring5JokeAppApplication.class, args);
+		
 	}
 }
